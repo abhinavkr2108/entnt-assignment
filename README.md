@@ -3,7 +3,7 @@
 A web-based Equipment Rental Management System built as part of an assignment for ENTNT. The application allows Admins, Staff, and Customers to manage and interact with equipment, rentals, and maintenance operations through a responsive and intuitive UI.
 
 ## 🔗 Live Demo
-
+https://entnt-assignment-one.vercel.app
 ---
 
 ## ✨ Features
